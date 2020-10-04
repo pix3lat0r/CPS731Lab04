@@ -1,15 +1,35 @@
 <resources>
-    <string name="app_name">CPS731LAB04SEC01AlisonDer</string>
+    <string name="app_name">CPS731Lab04Sec01AlisonDer</string>
     <string name="title">Title</string>
     <string name="descript">Description</string>
+    <string-array name="ingredients">
+        <item>Ingredients:\n1/2 cup sugar\n1/2 teaspoon vanilla extract\n1 cup coffee, at room temperature\n2 tablespoons half and half, or more, to taste</item>
+        <item>Ingredients:\n1 cup milk, of your choice\n1 can sweetened condensed milk\n1 vanilla pod\n1 tablespoon vanilla extract</item>
+        <item>Ingredients:\n2 cups water\n2 Earl Grey tea bags\n2 tbsp liquid honey\n4 cups milk\n1 vanilla bean</item>
+        <item>Ingredients:\n1 cup granulated sugar\n1 cup water\n1 cup lemon juice\n2 to 3 cups cold water</item>
+        <item>Ingredients:\n1 cup strawberries\n1 cup vanilla ice cream\n1/2 cup milk</item>
+        <item>Ingredients:\n4 cups milk\n1/4 cup unsweetened cocoa powder\n1/4 cup granulated sugar\n1/2 cup  semisweet chocolate chips\n1/4 teaspoon pure vanilla extract</item>
+        <item>Ingredients:\n1 cup water\nA handful of ice cubes</item>
+        <item>Ingredients:\n4 oranges</item>
+    </string-array>
     <string-array name="recipeTitles">
         <item>Iced Coffee</item>
         <item>French Vanilla</item>
         <item>Earl Grey Tea</item>
+        <item>Lemonade</item>
+        <item>Strawberry Milkshake</item>
+        <item>Hot Chocolate</item>
+        <item>Ice Cold Water</item>
+        <item>Orange Juice</item>
     </string-array>
     <string-array name="descriptions">
         <item>Want a nice refreshing drink that involves ice and coffee? This recipe is for you! It is quick, easy, budget-friendly, and tastes just like the gourmet coffee-shops, if not better!</item>
         <item>Tired of hot chocolate? Look no more! This is the BEST french vanilla recipe that you will ever find in your entire life.</item>
         <item>Have you ever tried milk with tea? This recipe is PERFECT. Just add milk, earl grey tea bag, water, and you are good to go!</item>
+        <item>Lemonade! Clap Clap Clap! Crunchy ice! Clap Clap Clap! Sip it once! Clap Clap Clap! Sip it twice! Clap Clap Clap! Turn around, touch the ground, FREEZE! Enjoy this delicious lemonade.</item>
+        <item>Strawberry galore! Get your milk, strawberries (you will need a lot), ice, ICE CREAM and get ready to devour this yummy treat!</item>
+        <item>Tired of french vanilla? Look no more! This is the BEST hot chocolate recipe that you will ever find in your entire life.</item>
+        <item>Need something to hydrate yourself? Well you are in luck. This is the best ice cold water recipe for YOU! Just pour yourself a glass of water, add some ice cubes, and you are done!</item>
+        <item>Orange + juice = OJ! Fresh organic orange juice. Perfect for kids.</item>
     </string-array>
 </resources>
