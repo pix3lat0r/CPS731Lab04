@@ -1,6 +1,7 @@
 package com.example.cps731lab04sec01alisonder;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
@@ -20,5 +21,7 @@ public class MainActivity extends AppCompatActivity {
         txt = getResources().getStringArray(R.array.descriptions);
 
         RecyclerViewAdapter mAdapter = new RecyclerViewAdapter(this, titles, txt, images);
+        recyclerView.setAdapter(mAdapter);
+        recyclerView.setLayoutManager(new LinearLayoutManager(this));
     }
 }
