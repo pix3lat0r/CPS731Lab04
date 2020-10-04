@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">CPS731LAB04SEC01AlisonDer</string>
+    <string name="title">Title</string>
+    <string name="descript">Description</string>
+    <string-array name="recipeTitles">
+        <item>Iced Coffee</item>
+        <item>French Vanilla</item>
+        <item>Earl Grey Tea</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Want a nice refreshing drink that involves ice and coffee? This recipe is for you! It's quick, easy, budget-friendly, and tastes just like the gourmet coffee-shops, if not better!</item>
+        <item>Tired of hot chocolate? Look no more! This is the BEST french vanilla recipe that you will ever find in your entire life.</item>
+        <item>Have you ever tried milk with tea? This recipe is PERFECT. Just add milk, earl grey tea bag, water, and you're good to go!</item>
+    </string-array>
 </resources>
